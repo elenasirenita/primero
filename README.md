@@ -1,0 +1,2 @@
+# primero
+ensimmäinen talletuspaikka
